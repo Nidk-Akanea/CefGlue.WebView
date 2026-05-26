@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
   <PropertyGroup>
-    <TargetDotnetVersion>net8.0</TargetDotnetVersion>
+    <TargetDotnetVersion>net10.0</TargetDotnetVersion>
     <Platforms>x64;ARM64</Platforms>
     <AvaloniaVersion>11.0.10</AvaloniaVersion>
     <CefGlueVersion>120.6099.207</CefGlueVersion>
